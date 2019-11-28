@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/va-portal-dev/static/css/main.0315803b.chunk.css",
+    "main.js": "/va-portal-dev/static/js/main.601ef847.chunk.js",
+    "main.js.map": "/va-portal-dev/static/js/main.601ef847.chunk.js.map",
+    "runtime~main.js": "/va-portal-dev/static/js/runtime~main.86b26afd.js",
+    "runtime~main.js.map": "/va-portal-dev/static/js/runtime~main.86b26afd.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/va-portal-dev/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.6ec18919.chunk.js": "/va-portal-dev/static/js/2.6ec18919.chunk.js",
+    "static/js/2.6ec18919.chunk.js.map": "/va-portal-dev/static/js/2.6ec18919.chunk.js.map",
+    "index.html": "/va-portal-dev/index.html",
+    "precache-manifest.dbbf52c257a47a4db092ee622f9a0c43.js": "/va-portal-dev/precache-manifest.dbbf52c257a47a4db092ee622f9a0c43.js",
+    "service-worker.js": "/va-portal-dev/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/va-portal-dev/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.0315803b.chunk.css.map": "/va-portal-dev/static/css/main.0315803b.chunk.css.map"
+  }
+}

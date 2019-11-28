@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: urker.github.io
+Token: a8f64cedda559a50914c00264e922b4e4bb5825edbe29c3039f9c3941cd3ee40
